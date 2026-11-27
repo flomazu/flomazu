@@ -7,7 +7,7 @@ My current approach is dedicated building blocks that each do one job well and c
 be combined into larger workflows, for example in a script or n8n. Where people
 use them directly, they get a simple form or web front end on top.
 
-**Current project**
+**Current projects:**
 - *[mail-merge](https://github.com/flomazu/mail-merge)*: personalised emails from an
   Excel or CSV list, with checks before sending, a report and no double sending.
   Tested in CI, optional Docker image.
