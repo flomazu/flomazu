@@ -16,6 +16,6 @@ use them directly, they get a simple form or web front end on top.
   - a web form for mail-merge (Flask)
   - mail merge as a native n8n workflow
 
-- *Private Paperwork Parser (PPP)*: local-first document processing for personal paperwork
+- *Private Paperwork Parser (PPP)*: local-first document processing for personal paperwork.
   Turns photographed letters, scans and PDFs into a structured JSON (text, tables, positions, OCR confidence)
   as the local source of truth, plus pseudonymized Markdown that is safe to share with cloud tools.
